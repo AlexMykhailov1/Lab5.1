@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest5.1.cpp
+Y:\Programming\Projects\Lab5.1\UnitTest5.1\UnitTest5.1.cpp(15,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     Creating library Y:\Programming\Projects\Lab5.1\Debug\UnitTest5.1.lib and object Y:\Programming\Projects\Lab5.1\Debug\UnitTest5.1.exp
+  UnitTest5.1.vcxproj -> Y:\Programming\Projects\Lab5.1\Debug\UnitTest5.1.dll
